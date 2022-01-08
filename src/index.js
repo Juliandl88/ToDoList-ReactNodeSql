@@ -8,11 +8,11 @@ const container = document.getElementById('root');
 
 //ReactDOM.render(que voy a renderizar, donde lo haré)
 ReactDOM.render(<Card
-                      title="Technique Guides"
+                      title="Technique Guide"
                       description="Lern amazing street workout and calisthenics"
                       img="image.png"
-                      leftColor=""
-                      rightColor=""  
+                      leftColor="#A74CF2"
+                      rightColor="#617BFB"  
 
                 />, container);
 
