@@ -8,7 +8,7 @@ const container = document.getElementById('root');
 
 //ReactDOM.render(que voy a renderizar, donde lo haré)
 ReactDOM.render(<Card
-                      title="Technique Guide"
+                      title="Technique Guides"
                       description="Lern amazing street workout and calisthenics"
                       img="image.png"
                       leftColor="#A74CF2"
