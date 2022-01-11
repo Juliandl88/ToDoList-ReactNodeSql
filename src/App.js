@@ -7,7 +7,11 @@ function App() {
   return (
     <div className="App">
      <TaskList />
+     <div>
+      <h1>Hola React</h1>
     </div>
+    </div>
+    
   );
 }
 
