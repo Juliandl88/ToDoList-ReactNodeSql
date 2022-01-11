@@ -8,7 +8,7 @@ function App() {
     <div className="App">
      <TaskList />
      <div>
-      <h1>Hola React</h1>
+      <h1>Hola React con Back</h1>
     </div>
     </div>
     
