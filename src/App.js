@@ -9,6 +9,8 @@ function App() {
      <TaskList />
      <div>
       <h1>Hola React con Back</h1>
+      <h2>Hola Back</h2>
+      <h3>Hola Front Back</h3>
     </div>
     </div>
     
